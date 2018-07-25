@@ -26,8 +26,8 @@ https://medium.com/tech-tajawal/page-object-model-pom-design-pattern-f9588630800
 
 **Running the tests**
 
-1. Start up the server: webdriver-manager start
+1. Start up the server: `webdriver-manager start`
 
-2. Open a new command line or terminal window: protractor conf.js
+2. Open a new command line or terminal window: `protractor conf.js`
 
 
