@@ -5,7 +5,7 @@ Sample shopping site automation project with Protractor based on POM design patt
 
 **Reference**
 
-**Protracto**r: https://www.protractortest.org/#/
+**Protractor**: https://www.protractortest.org/#/
 
 **POM**: https://www.swtestacademy.com/page-object-model-java/,
 https://medium.com/tech-tajawal/page-object-model-pom-design-pattern-f9588630800b
@@ -13,13 +13,15 @@ https://medium.com/tech-tajawal/page-object-model-pom-design-pattern-f9588630800
 **HTML reporter for Jasmine2 and Protractor**: https://www.npmjs.com/package/protractor-jasmine2-html-reporter
 
 
+
 **Prerequisites**
 
 **NodJS Installation**: https://nodejs.org/en/
 
-**Protractor Installation**: > npm install -g protractor
+**Protractor Installation**: `npm install -g protractor`
 
-**HTML reporter for Jasmine2 and Protractor**: > npm install protractor-jasmine2-html-reporter --save-dev
+**HTML reporter for Jasmine2 and Protractor**: `npm install protractor-jasmine2-html-reporter --save-dev`
+
 
 
 **Running the tests**
